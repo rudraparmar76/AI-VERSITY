@@ -1,0 +1,11 @@
+streamlit
+requests
+openai
+pycountry
+googletrans==3.1.0a0
+python-pptx
+google-generativeai
+pandas
+firebase_admin
+duckdb
+plotly
