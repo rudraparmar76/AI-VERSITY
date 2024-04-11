@@ -48,9 +48,9 @@ To run the project, execute the following command in your terminal:
 
 ## Contributors
 
-- **Rudra Parmar** - Initial work
-- **Daksh Gopani** - Features and API Integration
-- **Vinit Shah** - Documentation and Testing
+- **[Rudra Parmar](https://github.com/rudraparmar76)**
+- **[Daksh Gopani](https://github.com/dakshgopani)**
+- **[Vinit Shah](https://github.com/Vinit062006)**
 
 ## License
 
