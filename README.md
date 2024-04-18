@@ -1,6 +1,6 @@
 # AI-VERSITY
 
-AI-VERSITY is a groundbreaking AI-powered platform that harnesses the full potential of APIs to offer a myriad of innovative features. Beyond weather forecasting, news updates, and dynamic presentation creation, IntelliGlobe also excels in image generation, cryptocurrency price tracking, chatbot interactions and many more features. Designed to cater to a global audience, AI-VERSITY aims to redefine the digital landscape with its comprehensive suite of AI-driven services.
+AI-VERSITY is a groundbreaking AI-powered platform that harnesses the full potential of APIs to offer a myriad of innovative features. Beyond weather forecasting, news updates, and dynamic presentation creation, AI-VERSITY also excels in image generation, cryptocurrency price tracking, chatbot interactions and many more features. Designed to cater to a global audience, AI-VERSITY aims to redefine the digital landscape with its comprehensive suite of AI-driven services.
 
 ## Table of Contents
 
