@@ -9,6 +9,7 @@ AI-VERSITY is a groundbreaking AI-powered platform that harnesses the full poten
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
 - [Running the Project](#running-the-project)
+- [Output Video](#output)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -45,6 +46,9 @@ Ensure you have Python installed on your system.
 To run the project, execute the following command in your terminal:
 
     streamlit run 🏡_Home.py
+
+## Output
+[![Output Video](https://www.canva.com/design/DAGDBINrteY/Mev9nInwQKVQOy49SFRH3A/view)](https://www.youtube.com/watch?v=P3yKBbvZd7Q?si=-ol48FP-V8wJWyWm)
 
 ## Contributors
 
