@@ -48,7 +48,7 @@ To run the project, execute the following command in your terminal:
     streamlit run 🏡_Home.py
 
 ## Output
-[![Output Video](https://www.canva.com/design/DAGDBINrteY/Mev9nInwQKVQOy49SFRH3A/view)](https://www.youtube.com/watch?v=P3yKBbvZd7Q?si=-ol48FP-V8wJWyWm)
+[![Output Video](https://github.com/rudraparmar76/AI-VERSITY/assets/111977901/fd402fb4-4e66-46e3-bb80-d9cac43d6e51)](https://www.youtube.com/watch?v=P3yKBbvZd7Q?si=-ol48FP-V8wJWyWm)
 
 ## Contributors
 
